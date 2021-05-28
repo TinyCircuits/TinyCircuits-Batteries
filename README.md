@@ -1,4 +1,4 @@
-# TinyCircuits TinyShield Batteries
+# TinyCircuits Batteries
 
 This repository contains 3D CAD data and 2D dimensioned projections/drawings of all or most of TinyCircuits' battery stock
 
