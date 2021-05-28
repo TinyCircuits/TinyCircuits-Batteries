@@ -1,6 +1,6 @@
 # TinyCircuits Batteries
 
-This repository contains 3D CAD data and 2D dimensioned projections/drawings of all or most of TinyCircuits' battery stock
+This repository contains 3D CAD data and 2D dimensioned projections/drawings of all or most of TinyCircuits' battery stock.
 
 Free to download to anyone.
 
