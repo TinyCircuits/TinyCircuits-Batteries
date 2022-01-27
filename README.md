@@ -9,5 +9,6 @@ File types include:
 * IGES
 * STL
 * PDF
+* SVG
 * PNG (light & dark versions with transparent backgrounds)
 * ZIP (all above media types are contained in a .zip for each battery)
